@@ -3,12 +3,11 @@ class Solution {
         int start=0;
         int end=nums.length-1;
         k=k%nums.length;
-        reverse(nums,start,end); 
-        reverse(nums,start,k-1); 
-        reverse(nums,k,end);   
-
+        reverse(nums,start,end);
+        reverse(nums,start,k-1);
+        reverse(nums,k,end);
     }
-    void reverse(int[] nums ,int start,int end)
+    void reverse(int[] nums,int start,int end)
     {
         while(start<end)
         {
@@ -17,6 +16,6 @@ class Solution {
             nums[end]=temp;
             start++;
             end--;
-        }        
+        }    
     }
 }
