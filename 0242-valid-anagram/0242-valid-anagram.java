@@ -5,15 +5,15 @@ class Solution {
         {
             return false;
         }
-        int[] arr=new int[26];
+        Map<Character,Integer> hmap=new HashMap<>();
         for(int i=0;i<s.length();i++)
         {
-            ++arr[s.charAt(i)-'a'];
-            --arr[t.charAt(i)-'a'];
+            hmap.put(s.charAt(i),hmap.getOrDefault(s.charAt(i),0)+1);
+            hmap.put(t.charAt(i),hmap.getOrDefault(t.charAt(i),0)-1);            
         }
-        for(int i=0;i<26;i++)
+        for(int val:hmap.values())
         {
-            if(arr[i]!=0)
+            if(val!=0)
             {
                 return false;
             }
