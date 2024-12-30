@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/prenitha10/Leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/prenitha10/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prenitha10/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [2058-concatenation-of-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2058-concatenation-of-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prenitha10/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
