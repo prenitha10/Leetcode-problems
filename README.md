@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prenitha10/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
+| [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [2058-concatenation-of-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2058-concatenation-of-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prenitha10/Leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prenitha10/Leetcode-problems/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/prenitha10/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
