@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/prenitha10/Leetcode-problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prenitha10/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
+| [1236-n-th-tribonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prenitha10/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
