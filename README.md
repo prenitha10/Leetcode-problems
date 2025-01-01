@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [2058-concatenation-of-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
+| [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prenitha10/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
+| [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
+| [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
 ## Matrix
 |  |
 | ------- |
