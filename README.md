@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
+| [1603-running-sum-of-1d-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/prenitha10/Leetcode-problems/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
