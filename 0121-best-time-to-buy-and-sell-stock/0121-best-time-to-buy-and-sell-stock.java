@@ -1,5 +1,5 @@
 class Solution {
-    public int maxProfit(int[] prices)
+    public int maxProfit(int[] prices) 
     {
         int minPrice=prices[0];
         int maxProfit=0;
@@ -13,7 +13,7 @@ class Solution {
             {
                 maxProfit=prices[i]-minPrice;
             }
-        }
-        return maxProfit;
+        }  
+        return maxProfit;      
     }
 }
