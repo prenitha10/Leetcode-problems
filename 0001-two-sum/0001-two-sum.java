@@ -6,12 +6,12 @@ class Solution {
         for(int i=0;i<n;i++)
         {
             int comp=target-nums[i];
-            if (hmap.containsKey(comp)) 
+            if(hmap.containsKey(comp))
             {
-                return new int[] { hmap.get(comp), i}; 
-            }           
+                return new int[]{hmap.get(comp),i};
+            }
             hmap.put(nums[i],i);
-        }      
+        }        
         return new int[]{};
     }
 }
