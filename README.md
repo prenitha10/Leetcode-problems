@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1603-running-sum-of-1d-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/prenitha10/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prenitha10/Leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/prenitha10/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/prenitha10/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/prenitha10/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/prenitha10/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/prenitha10/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
 ## Math
