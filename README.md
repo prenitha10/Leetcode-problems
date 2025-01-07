@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prenitha10/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2058-concatenation-of-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
 ## Simulation
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 ## Divide and Conquer
 |  |
 | ------- |
