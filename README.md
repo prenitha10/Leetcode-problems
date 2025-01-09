@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prenitha10/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prenitha10/Leetcode-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/prenitha10/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prenitha10/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/prenitha10/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/prenitha10/Leetcode-problems/tree/master/0204-count-primes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prenitha10/Leetcode-problems/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prenitha10/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/prenitha10/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/prenitha10/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/prenitha10/Leetcode-problems/tree/master/0189-rotate-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prenitha10/Leetcode-problems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/prenitha10/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/prenitha10/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
