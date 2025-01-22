@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/prenitha10/Leetcode-problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/prenitha10/Leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/prenitha10/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 ## String
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/prenitha10/Leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/prenitha10/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/prenitha10/Leetcode-problems/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prenitha10/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
