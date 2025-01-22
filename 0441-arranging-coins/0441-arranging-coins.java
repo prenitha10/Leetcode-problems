@@ -1,5 +1,11 @@
 class Solution {
     public int arrangeCoins(int n) {
-        return (int)Math.floor(-0.5+ Math.sqrt((long)2*n+0.5));      
+        int ans=1;
+        while(n>=ans)
+        {
+            n=n-ans;
+            ans++;
+        }
+        return ans-1;
     }
 }
