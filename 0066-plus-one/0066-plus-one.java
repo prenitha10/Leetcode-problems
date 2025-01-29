@@ -1,7 +1,5 @@
-class Solution 
-{
-    public int[] plusOne(int[] digits) 
-    {
+class Solution {
+    public int[] plusOne(int[] digits) {
         int n=digits.length-1;
         for(int i=n;i>=0;i--)
         {
@@ -16,5 +14,4 @@ class Solution
         arr[0]=1;
         return arr;
     }
-
 }
