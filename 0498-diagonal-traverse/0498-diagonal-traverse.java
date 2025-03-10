@@ -20,7 +20,13 @@ class Solution {
                 Collections.reverse(entry.getValue());
             }
             newarr.addAll(entry.getValue());
-        }       
-        return newarr.stream().mapToInt(i -> i).toArray();
+        }   
+        int fin=(row+1)*(col+1);  
+        int[] arr=new int[fin];
+        for(int i=0;i<fin;i++)
+        {
+            arr[i]=newarr.get(i);
+        }
+        return arr;
     }
 }
