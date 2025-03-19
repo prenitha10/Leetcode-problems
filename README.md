@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prenitha10/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
+| [3374-count-alternating-subarrays](https://github.com/prenitha10/Leetcode-problems/tree/master/3374-count-alternating-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/prenitha10/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
+| [3374-count-alternating-subarrays](https://github.com/prenitha10/Leetcode-problems/tree/master/3374-count-alternating-subarrays) |
 ## String
 |  |
 | ------- |
