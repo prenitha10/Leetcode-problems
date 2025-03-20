@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/prenitha10/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/prenitha10/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0792-binary-search](https://github.com/prenitha10/Leetcode-problems/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prenitha10/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prenitha10/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/prenitha10/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prenitha10/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/prenitha10/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/prenitha10/Leetcode-problems/tree/master/1306-minimum-absolute-difference) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/prenitha10/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/prenitha10/Leetcode-problems/tree/master/0383-ransom-note) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prenitha10/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/prenitha10/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/prenitha10/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/prenitha10/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/prenitha10/Leetcode-problems/tree/master/0792-binary-search) |
