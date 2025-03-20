@@ -6,9 +6,7 @@ class Solution {
         {
             System.out.print(ele+" ");
         }
-        int a=ch[0]-'0';
-        int b=ch[1]-'0';
-        if((a%2==0 && b%2==0)||(a%2!=0 && b%2!=0))
+        if((ch[0]%2==0 && ch[1]%2==0)||(ch[0]%2!=0 && ch[1]%2!=0))
         {
             return false;
         }
