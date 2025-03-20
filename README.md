@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
+| [1306-minimum-absolute-difference](https://github.com/prenitha10/Leetcode-problems/tree/master/1306-minimum-absolute-difference) |
 | [1310-watering-plants](https://github.com/prenitha10/Leetcode-problems/tree/master/1310-watering-plants) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1306-minimum-absolute-difference](https://github.com/prenitha10/Leetcode-problems/tree/master/1306-minimum-absolute-difference) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prenitha10/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/prenitha10/Leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
