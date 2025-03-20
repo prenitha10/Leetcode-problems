@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/prenitha10/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/prenitha10/Leetcode-problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3374-count-alternating-subarrays](https://github.com/prenitha10/Leetcode-problems/tree/master/3374-count-alternating-subarrays) |
 ## String
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prenitha10/Leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/prenitha10/Leetcode-problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Binary Search
 |  |
 | ------- |
