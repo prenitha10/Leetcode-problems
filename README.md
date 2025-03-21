@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/prenitha10/Leetcode-problems/tree/master/0383-ransom-note) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prenitha10/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/prenitha10/Leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
 ## Math
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prenitha10/Leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/prenitha10/Leetcode-problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/prenitha10/Leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/prenitha10/Leetcode-problems/tree/master/0383-ransom-note) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/prenitha10/Leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2486-most-frequent-even-element](https://github.com/prenitha10/Leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prenitha10/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/prenitha10/Leetcode-problems/tree/master/3324-split-the-array) |
