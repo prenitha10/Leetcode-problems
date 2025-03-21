@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/prenitha10/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/prenitha10/Leetcode-problems/tree/master/0383-ransom-note) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prenitha10/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/prenitha10/Leetcode-problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/prenitha10/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/prenitha10/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/prenitha10/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prenitha10/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prenitha10/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/prenitha10/Leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
