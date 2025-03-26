@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prenitha10/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prenitha10/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/prenitha10/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/prenitha10/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/prenitha10/Leetcode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/prenitha10/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prenitha10/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prenitha10/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/prenitha10/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/prenitha10/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/prenitha10/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0202-happy-number) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prenitha10/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
