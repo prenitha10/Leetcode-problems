@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prenitha10/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/prenitha10/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/prenitha10/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0792-binary-search](https://github.com/prenitha10/Leetcode-problems/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
