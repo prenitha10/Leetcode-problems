@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/prenitha10/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/prenitha10/Leetcode-problems/tree/master/0383-ransom-note) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/prenitha10/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/prenitha10/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prenitha10/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/prenitha10/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/prenitha10/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
