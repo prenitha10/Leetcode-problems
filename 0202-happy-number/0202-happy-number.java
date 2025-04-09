@@ -1,7 +1,5 @@
 class Solution {
     public boolean isHappy(int n) {
-        if(n<10)
-            return false;
         HashSet<Integer> hmap=new HashSet<>();
         return (recurse(hmap,n));
     }
