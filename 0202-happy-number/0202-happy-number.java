@@ -1,10 +1,11 @@
 class Solution {
-    public boolean isHappy(int n) 
-    {
-        HashSet<Integer> hsum=new HashSet<>();
-        return(sum(hsum,n));              
+    public boolean isHappy(int n) {
+        if(n<10)
+            return false;
+        HashSet<Integer> hmap=new HashSet<>();
+        return (recurse(hmap,n));
     }
-    public boolean sum(HashSet<Integer> hsum,int n)
+    public static boolean recurse(HashSet<Integer> hmap,int n)
     {
         int sum=0;
         while(n>0)
@@ -12,13 +13,17 @@ class Solution {
             int rem=n%10;
             sum+=(rem*rem);
             n=n/10;
-        } 
+        }
         if(sum==1)
+        {
             return true;
-        if(hsum.contains(sum))
+        }
+        else if(hmap.contains(sum))
+        {
             return false;
-        hsum.add(sum); 
+        }
+        hmap.add(sum);
         n=sum;
-        return sum(hsum,n);
+        return recurse(hmap,n);
     }
 }
