@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/prenitha10/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/prenitha10/Leetcode-problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2998-count-symmetric-integers](https://github.com/prenitha10/Leetcode-problems/tree/master/2998-count-symmetric-integers) |
 | [3374-count-alternating-subarrays](https://github.com/prenitha10/Leetcode-problems/tree/master/3374-count-alternating-subarrays) |
 ## String
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prenitha10/Leetcode-problems/tree/master/0204-count-primes) |
+| [2998-count-symmetric-integers](https://github.com/prenitha10/Leetcode-problems/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
