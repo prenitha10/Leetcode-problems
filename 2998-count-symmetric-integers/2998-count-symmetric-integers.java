@@ -1,5 +1,5 @@
 class Solution {
-    public int countSymmetricIntegers(int low, int high)
+    public int countSymmetricIntegers(int low, int high) 
     {
         int count=0;
         for(int i=low;i<=high;i++)
@@ -19,6 +19,6 @@ class Solution {
             if(lsum==rsum)
                 count++;
         }
-        return count;        
+        return count;
     }
 }
