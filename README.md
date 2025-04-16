@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1306-minimum-absolute-difference](https://github.com/prenitha10/Leetcode-problems/tree/master/1306-minimum-absolute-difference) |
 | [1310-watering-plants](https://github.com/prenitha10/Leetcode-problems/tree/master/1310-watering-plants) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/prenitha10/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/prenitha10/Leetcode-problems/tree/master/0383-ransom-note) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prenitha10/Leetcode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/prenitha10/Leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
