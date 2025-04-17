@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1310-watering-plants](https://github.com/prenitha10/Leetcode-problems/tree/master/1310-watering-plants) |
 | [2058-concatenation-of-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/prenitha10/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/prenitha10/Leetcode-problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/prenitha10/Leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prenitha10/Leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2470-removing-stars-from-a-string](https://github.com/prenitha10/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/prenitha10/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/prenitha10/Leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prenitha10/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/prenitha10/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
