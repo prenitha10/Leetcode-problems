@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prenitha10/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/prenitha10/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/prenitha10/Leetcode-problems/tree/master/0498-diagonal-traverse) |
+| [0517-super-washing-machines](https://github.com/prenitha10/Leetcode-problems/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/prenitha10/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/prenitha10/Leetcode-problems/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0517-super-washing-machines](https://github.com/prenitha10/Leetcode-problems/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/prenitha10/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/prenitha10/Leetcode-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/prenitha10/Leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
