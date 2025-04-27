@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/prenitha10/Leetcode-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/prenitha10/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/prenitha10/Leetcode-problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1954-replace-all-digits-with-characters](https://github.com/prenitha10/Leetcode-problems/tree/master/1954-replace-all-digits-with-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/prenitha10/Leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prenitha10/Leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2470-removing-stars-from-a-string](https://github.com/prenitha10/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
