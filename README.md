@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/prenitha10/Leetcode-problems/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/prenitha10/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/prenitha10/Leetcode-problems/tree/master/0792-binary-search) |
+| [0878-shifting-letters](https://github.com/prenitha10/Leetcode-problems/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/prenitha10/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0878-shifting-letters](https://github.com/prenitha10/Leetcode-problems/tree/master/0878-shifting-letters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prenitha10/Leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prenitha10/Leetcode-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/prenitha10/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prenitha10/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0878-shifting-letters](https://github.com/prenitha10/Leetcode-problems/tree/master/0878-shifting-letters) |
 | [1603-running-sum-of-1d-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/prenitha10/Leetcode-problems/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
