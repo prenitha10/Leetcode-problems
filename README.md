@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/prenitha10/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1306-minimum-absolute-difference](https://github.com/prenitha10/Leetcode-problems/tree/master/1306-minimum-absolute-difference) |
 | [1310-watering-plants](https://github.com/prenitha10/Leetcode-problems/tree/master/1310-watering-plants) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/prenitha10/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/prenitha10/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/prenitha10/Leetcode-problems/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prenitha10/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prenitha10/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0878-shifting-letters](https://github.com/prenitha10/Leetcode-problems/tree/master/0878-shifting-letters) |
+| [1046-max-consecutive-ones-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/prenitha10/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/prenitha10/Leetcode-problems/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prenitha10/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/prenitha10/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/prenitha10/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/prenitha10/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
