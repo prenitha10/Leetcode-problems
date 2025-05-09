@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prenitha10/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prenitha10/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/prenitha10/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/prenitha10/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/prenitha10/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/prenitha10/Leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prenitha10/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prenitha10/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/prenitha10/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prenitha10/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/prenitha10/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/prenitha10/Leetcode-problems/tree/master/0066-plus-one) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prenitha10/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/prenitha10/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prenitha10/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prenitha10/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/prenitha10/Leetcode-problems/tree/master/0049-group-anagrams) |
