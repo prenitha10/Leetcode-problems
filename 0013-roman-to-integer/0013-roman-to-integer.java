@@ -11,14 +11,12 @@ class Solution {
         int sum=0;
         for(int i=0;i<s.length();i++)
         {
-           if(i<s.length()-1 && hmap.get(s.charAt(i))<hmap.get(s.charAt(i+1)))
-           {
+            if(i<s.length()-1 && hmap.get(s.charAt(i))<hmap.get(s.charAt(i+1)))
+            {
                 sum-=hmap.get(s.charAt(i));
-           }
-           else
-           {
+            }
+            else
                 sum+=hmap.get(s.charAt(i));
-           }
         }
         return sum;
     }
