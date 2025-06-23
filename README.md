@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/prenitha10/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0517-super-washing-machines](https://github.com/prenitha10/Leetcode-problems/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/prenitha10/Leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/prenitha10/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/prenitha10/Leetcode-problems/tree/master/0792-binary-search) |
 | [0878-shifting-letters](https://github.com/prenitha10/Leetcode-problems/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/prenitha10/Leetcode-problems/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/prenitha10/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/prenitha10/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1310-watering-plants](https://github.com/prenitha10/Leetcode-problems/tree/master/1310-watering-plants) |
 | [2058-concatenation-of-array](https://github.com/prenitha10/Leetcode-problems/tree/master/2058-concatenation-of-array) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/prenitha10/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/prenitha10/Leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prenitha10/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/prenitha10/Leetcode-problems/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/prenitha10/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
