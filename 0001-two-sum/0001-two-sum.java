@@ -3,10 +3,10 @@ class Solution {
         HashMap<Integer,Integer> hmap=new HashMap<>();
         for(int i=0;i<nums.length;i++)
         {
-            int key=target-nums[i];
-            if(hmap.containsKey(key))
+            int diff=target-nums[i];
+            if(hmap.containsKey(diff))
             {
-                return new int[]{hmap.get(key),i};
+                return new int[]{hmap.get(diff),i};
             }
             hmap.put(nums[i],i);
         }
